@@ -11,7 +11,7 @@ Software Engineering student with aspirations of service and learning in areas r
 
 ---
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Soft - Skills</h2>
 <table align="center">
     <tr>
         <td align="center">Leadership</td>
