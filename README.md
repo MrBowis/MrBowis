@@ -11,28 +11,6 @@ Software Engineering student with aspirations of service and learning in areas r
 
 ---
 
-<h2 align="center">Soft - Skills</h2>
-<table align="center">
-    <tr>
-        <td align="center">Leadership</td>
-        <td align="center">Problem Solving</td>
-    </tr>
-    <tr>
-        <td align="center">Teamwork</td>
-        <td align="center">Communication</td>
-    </tr>
-    <tr>
-        <td align="center">Critical Thinking</td>
-        <td align="center">Adaptability</td>
-    </tr>
-    <tr>
-        <td align="center">Time Management</td>
-        <td align="center">Patience</td>
-    </tr>
-</table>
-
----
-
 ## 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/alejandro-andrade-encalada-731b45257/" target="blank">
