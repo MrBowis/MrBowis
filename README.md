@@ -38,3 +38,7 @@ Software Engineering student with aspirations of service and learning in areas r
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width=40 height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg" alt="fedora" width=40 height="40" />
 </p>
+
+---
+
+You can check my main projects bellow !!!
