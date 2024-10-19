@@ -1,11 +1,11 @@
-<h2 align="center">Who is Alejandro Andrade❔</h2>
+<h2 align="center">Who is Alejandro Andrade?</h2>
 <h4 align="center">
 Software Engineering student with aspirations of service and learning in areas related to Web Development and Cyber Security.
 </h4>
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrbowis&label=Profile%20views&color=0e75b6&style=flat" alt="mrbowis" />
-</p> -->
+</p>
 
 🇪🇨 **Student** at the [Universidad de la Fuerzas Armadas ESPE](https://www.espe.edu.ec/).
 
