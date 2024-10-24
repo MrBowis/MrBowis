@@ -9,10 +9,15 @@ Software Engineering student with aspirations of service and learning in areas r
 
 🇪🇨 **Student** at the [Universidad de la Fuerzas Armadas ESPE](https://www.espe.edu.ec/).
 
-<div style="display: flex;width: 100%;justify-content: space-evenly;align-items: center;">
-  <img alt="stats" style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=MrBowis&show_icons=true&theme=tokyonight"/>
-  <img alt="top langs" style="width: 36%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBowis&layout=compact&theme=tokyonight"/>  
-</div> 
+<img alt="stats" style="width: 46%;" align="left" src="https://github-readme-stats.vercel.app/api?username=MrBowis&show_icons=true&theme=tokyonight"/>
+<img alt="top langs" style="width: 35%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBowis&layout=compact&theme=tokyonight"/>  
+
+# 
+# 
+# 
+# 
+# 
+# 
 
 ## 🌐 Connect with me
 <a href="https://www.linkedin.com/in/alejandro-andrade-encalada-731b45257/" target="blank">
